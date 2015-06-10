@@ -1,0 +1,12 @@
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\Data.dll.config
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\Data.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\Data.pdb
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\Business.Entities.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\EntityFramework.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\Business.Entities.pdb
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\EntityFramework.xml
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\obj\Debug\Data.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\obj\Debug\Data.pdb

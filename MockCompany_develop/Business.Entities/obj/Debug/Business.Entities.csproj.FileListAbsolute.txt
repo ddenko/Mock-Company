@@ -1,0 +1,5 @@
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Business.Entities\bin\Debug\Business.Entities.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Business.Entities\bin\Debug\Business.Entities.pdb
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Business.Entities\obj\Debug\Business.Entities.csprojResolveAssemblyReference.cache
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Business.Entities\obj\Debug\Business.Entities.dll
+D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Business.Entities\obj\Debug\Business.Entities.pdb
