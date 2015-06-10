@@ -1,19 +1,22 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using Business.Contracts;
 using Business.Entities;
+using Data.Repository_Interfaces;
 
 namespace Business.Managers
 {
     public class SalesManager:ISalesService
     {
+        private ISalesRepository _salesRepository = null;
+
+        public SalesManager(ISalesRepository salesRepository)
+        {
+            _salesRepository = salesRepository;
+        }
+
         public IEnumerable<Product> GetProducts()
         {
-            throw new NotImplementedException();
+            return _salesRepository.GeProducts();
         }
     }
 }
