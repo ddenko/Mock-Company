@@ -7,3 +7,7 @@ C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Manag
 C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\obj\Debug\Business.Managers.csprojResolveAssemblyReference.cache
 C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\obj\Debug\Business.Managers.dll
 C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\obj\Debug\Business.Managers.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Data.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\EntityFramework.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Data.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\EntityFramework.xml

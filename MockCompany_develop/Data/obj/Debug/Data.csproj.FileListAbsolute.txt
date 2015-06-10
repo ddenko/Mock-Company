@@ -10,3 +10,15 @@ D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompan
 D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\obj\Debug\Data.dll
 D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\Data\obj\Debug\Data.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\Data.dll.config
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\Data.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\Data.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\Business.Entities.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\EntityFramework.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\Business.Entities.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\EntityFramework.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\obj\Debug\Data.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Data\obj\Debug\Data.pdb
