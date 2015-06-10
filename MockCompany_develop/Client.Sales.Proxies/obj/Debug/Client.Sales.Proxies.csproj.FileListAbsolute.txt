@@ -1,0 +1,9 @@
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\bin\Debug\Client.Sales.Proxies.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\bin\Debug\Client.Sales.Proxies.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\obj\Debug\Client.Sales.Proxies.csprojResolveAssemblyReference.cache
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\obj\Debug\Client.Sales.Proxies.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\obj\Debug\Client.Sales.Proxies.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\bin\Debug\Client.Contracts.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\bin\Debug\Client.Entities.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\bin\Debug\Client.Contracts.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Sales.Proxies\bin\Debug\Client.Entities.pdb

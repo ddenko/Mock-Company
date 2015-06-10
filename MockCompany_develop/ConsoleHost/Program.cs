@@ -34,6 +34,11 @@ namespace ConsoleHost
             Console.ReadLine();
 
             hostSalesManager.Close();
+
+
+            //SalesRepository repository = new SalesRepository();
+            //var a=repository.GeProducts();
+            //var z = 3;
         }
     }
 }

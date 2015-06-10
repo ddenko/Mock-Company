@@ -1,0 +1,4 @@
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Entities\bin\Debug\Client.Entities.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Entities\bin\Debug\Client.Entities.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Entities\obj\Debug\Client.Entities.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Client.Entities\obj\Debug\Client.Entities.pdb
