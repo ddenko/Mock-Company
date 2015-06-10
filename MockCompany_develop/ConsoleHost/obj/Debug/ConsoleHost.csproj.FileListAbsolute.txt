@@ -4,3 +4,6 @@ D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompan
 D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\ConsoleHost\obj\Debug\ConsoleHost.csprojResolveAssemblyReference.cache
 D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\ConsoleHost\obj\Debug\ConsoleHost.exe
 D:\Polibuda\Wemif\VI 2015\Programowanie obiektowe\Projekt\MockCompany\MockCompany_develop\ConsoleHost\obj\Debug\ConsoleHost.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\ConsoleHost\bin\Debug\ConsoleHost.exe.config
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\ConsoleHost\obj\Debug\ConsoleHost.exe
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\ConsoleHost\obj\Debug\ConsoleHost.pdb

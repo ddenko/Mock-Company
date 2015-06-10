@@ -1,0 +1,7 @@
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\bin\Debug\Business.Contracts.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\bin\Debug\Business.Contracts.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\bin\Debug\Business.Entities.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\bin\Debug\Business.Entities.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\obj\Debug\Business.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\obj\Debug\Business.Contracts.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Contracts\obj\Debug\Business.Contracts.pdb

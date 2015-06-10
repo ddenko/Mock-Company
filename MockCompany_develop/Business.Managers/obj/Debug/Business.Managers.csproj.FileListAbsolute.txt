@@ -1,0 +1,9 @@
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Business.Managers.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Business.Managers.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Business.Contracts.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Business.Entities.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Business.Contracts.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\bin\Debug\Business.Entities.pdb
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\obj\Debug\Business.Managers.csprojResolveAssemblyReference.cache
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\obj\Debug\Business.Managers.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Business.Managers\obj\Debug\Business.Managers.pdb
