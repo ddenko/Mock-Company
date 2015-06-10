@@ -27,9 +27,7 @@ namespace Desktop
             InitializeComponent();
             SalesClient proxy = new SalesClient();
             var a = proxy.GetProducts();
-
-            //SalesRepository repository = new SalesRepository();
-            //var q=repository.GeProducts();
+            
 
             var t = 3;
         }

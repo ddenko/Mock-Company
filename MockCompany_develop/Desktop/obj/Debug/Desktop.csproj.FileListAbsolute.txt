@@ -23,3 +23,16 @@ C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\De
 C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Business.Entities.pdb
 C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Data.pdb
 C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\EntityFramework.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\obj\Debug\Views\MainView.baml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\obj\Debug\Views\MainView.g.cs
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\damian\Documents\GitHub\Mock-Company\MockCompany_develop\Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
